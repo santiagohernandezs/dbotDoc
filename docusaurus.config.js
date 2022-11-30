@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "",
+                to: "https://www.youtube.com/@serudda",
               },
             ],
           },
