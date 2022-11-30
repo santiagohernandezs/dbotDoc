@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Dbot",
   tagline: "Documentación de Dbot",
-  url: "",
+  url: "https://dbot-docs.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "https://www.youtube.com/@serudda",
+                to: "/docs/intro",
               },
             ],
           },
